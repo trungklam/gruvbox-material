@@ -1,0 +1,31 @@
+<idea-plugin>
+  <id>com.happiness.material.gruvbox</id>
+  <name>Gruvbox Material</name>
+  <version>1.0</version>
+  <vendor email="trunglam.dev@gmail.com" url="https://github.com/Happin3ss">Happin3ss</vendor>
+
+  <description>
+    This is a port of Gruvbox Material Theme of @sainnhe for Jetbrains IDEs
+   </description>
+
+  <change-notes>
+    Release first version. All colors were taken from original palette.
+  </change-notes>
+
+  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
+  <idea-version since-build="173.0"/>
+
+  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+       on how to target different products -->
+  <depends>com.intellij.modules.platform</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <!-- Add your extensions here -->
+    <themeProvider id="761c5aa8-d0f3-4ccf-a4e9-c3211a26c0a8" path="/gruvbox_material.theme.json"/>
+  </extensions>
+
+  <actions>
+    <!-- Add your actions here -->
+  </actions>
+
+</idea-plugin>

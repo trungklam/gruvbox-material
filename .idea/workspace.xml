@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6f6e9e3d-7f89-40c1-a968-61862d6a1a1e" name="Default Changelist" comment="" />
+    <list default="true" id="6f6e9e3d-7f89-40c1-a968-61862d6a1a1e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/gruvbox_material.theme.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/gruvbox_material-dark-hard.theme.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,16 +26,17 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/gruvbox-material" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1ZDRP4Xa1MktE17VHJRH0nj6tfi" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="sortByType" value="true" />
   </component>
@@ -45,7 +50,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.32504013" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="MTCustomThemeConfigurable" />
   </component>
   <component name="RunManager">
     <configuration name="Plugin" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
@@ -81,16 +86,28 @@
       <workItem from="1584411419118" duration="16000" />
       <workItem from="1584429003845" duration="1728000" />
       <workItem from="1584528484902" duration="1233000" />
+      <workItem from="1585385580325" duration="877000" />
+      <workItem from="1585550431755" duration="18000" />
+      <workItem from="1587700795283" duration="5347000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="252" y="112" width="1142" height="897" key="SettingsEditor" timestamp="1584372268895">
+    <state x="640" y="187" key="#Project_Structure" timestamp="1587700858664">
+      <screen x="0" y="23" width="2560" height="1373" />
+    </state>
+    <state x="640" y="187" key="#Project_Structure/0.23.2560.1373/-2560.23.2560.1417/2560.171.1680.1027@0.23.2560.1373" timestamp="1587700858664" />
+    <state x="350" y="228" key="IDE.errors.dialog" timestamp="1585385980124">
       <screen x="44" y="23" width="1636" height="1027" />
     </state>
-    <state x="252" y="112" width="1142" height="897" key="SettingsEditor/44.23.1636.1027@44.23.1636.1027" timestamp="1584372268895" />
+    <state x="350" y="228" key="IDE.errors.dialog/44.23.1636.1027@44.23.1636.1027" timestamp="1585385980124" />
+    <state x="325" y="142" width="1142" height="897" key="SettingsEditor" timestamp="1587701005687">
+      <screen x="0" y="23" width="2560" height="1373" />
+    </state>
+    <state x="325" y="142" key="SettingsEditor/0.23.2560.1373/-2560.23.2560.1417/2560.171.1680.1027@0.23.2560.1373" timestamp="1587701005687" />
+    <state x="252" y="112" width="1142" height="897" key="SettingsEditor/44.23.1636.1027@44.23.1636.1027" timestamp="1585386426686" />
   </component>
 </project>
